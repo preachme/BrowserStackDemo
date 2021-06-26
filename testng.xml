@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Serial test run">
+ 
+  <test name="Simple Test">
+    <classes>
+      <class name="com.testng.tests.SerialExecutionTest"/>
+    </classes>
+  </test>
+</suite>
